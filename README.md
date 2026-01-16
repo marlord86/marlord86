@@ -1,16 +1,142 @@
-## Hi there 👋
+# 👋 Hola, soy Mario Andrés Jerez Quintero
 
-<!--
-**marlord86/marlord86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Líder de Desarrollo | Ingeniero de Sistemas | Java & Arquitecturas Backend
 
-Here are some ideas to get you started:
+Ingeniero de Sistemas con **más de 10 años de experiencia** liderando equipos de desarrollo y participando en la **entrega exitosa de proyectos de software complejos** en sectores público y privado.  
+Especialista en **arquitecturas escalables, APIs REST y metodologías ágiles**, con un enfoque fuerte en **calidad, eficiencia y mejora continua**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me caracterizo por un estilo de liderazgo **colaborativo**, una sólida base técnica y la capacidad de **traducir requerimientos de negocio en soluciones tecnológicas robustas**.
+
+---
+
+## 🧠 Perfil Profesional
+
+- 👨‍💻 Líder de Desarrollo con experiencia en gestión de equipos de alto rendimiento  
+- ⚙️ Experto en **Java y ecosistema Spring (Spring Boot, Security, Framework)**  
+- 🔁 Amplia experiencia en **diseño y desarrollo de APIs REST**  
+- 🚀 Optimización de procesos que reducen tiempos de entrega  
+- 🧩 Participación activa en análisis funcional, diseño, desarrollo, pruebas y despliegue  
+- ☁️ Experiencia con herramientas **DevOps y CI/CD (GitLab, Git, pipelines)**  
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+### 🔹 Lenguajes
+
+- Java  
+- Kotlin  
+- JavaScript  
+- HTML  
+- SQL  
+- XML  
+
+### 🔹 Frameworks & Plataformas
+
+- Spring Boot  
+- Spring Framework  
+- Spring Security  
+- JSF, PrimeFaces, RichFaces  
+- Git, GitLab  
+- Google Cloud  
+- ELK Stack  
+
+### 🔹 Bases de Datos
+
+- PostgreSQL  
+- MySQL  
+- Oracle  
+- SQL Server  
+
+### 🔹 IDEs
+
+- IntelliJ IDEA  
+- Eclipse  
+- NetBeans  
+- VS Code  
+
+---
+
+## 💼 Experiencia Profesional
+
+### 🏢 **SKG Tecnología S.A.S**
+
+**Líder / Apoyo Técnico**  
+📅 *Noviembre 2022 – Enero 2025*
+
+- Acompañamiento en el levantamiento, desarrollo y pruebas del **Sistema de Información de Emergencias Médicas de Bogotá**  
+- Apoyo en definiciones funcionales y técnicas de historias de usuario  
+- Integración entre plataforma web y aplicación móvil  
+- Revisión de repositorios y pipelines CI/CD  
+- Coordinación técnica con proveedores externos  
+
+---
+
+### 🏛️ **Agencia Nacional de Minería (ANM)**
+
+**Ingeniero de Software / Apoyo Técnico**  
+📅 *Enero 2014 – Diciembre 2022*
+
+- Gestión de necesidades técnicas del proyecto de **trazabilidad de minerales**  
+- Análisis, diseño, desarrollo y pruebas de requerimientos del área de **Fiscalización Minera**  
+- Soporte y mejoras a la plataforma de **trámites y pagos en línea**  
+- Apoyo técnico en procesos de contratación de fábrica de software  
+
+---
+
+### 🏢 **SQDM S.A.S.**
+
+**Ingeniero de Software**  
+📅 *Junio 2013 – Diciembre 2013*
+
+- Desarrollo del componente de integración con **Datacrédito** para ETB  
+- Diseño y mantenimiento de servicios de integración con el sistema de facturación  
+- Soporte a servicios orientados a productos con facturación mensual  
+
+---
+
+### 🎓 **Universidad Industrial de Santander (UIS)**
+
+**Ingeniero de Software**  
+📅 *Abril 2011 – Mayo 2013*
+
+- Desarrollo y mantenimiento del **Sistema de Gestión de Proyectos (SGPUIS)**  
+- Desarrollo de módulos para gestión de proyectos de investigación  
+- Soporte al sistema de información de la **Vicerrectoría de Investigación y Extensión (SIVIE)**  
+
+---
+
+## 🎓 Educación
+
+- 🎓 **Ingeniero de Sistemas**  
+  *Universidad Industrial de Santander* — 2011  
+
+- 📊 **Especialista en Gerencia de Proyectos**  
+  *Universidad EAN* — 2015  
+
+---
+
+## 📜 Certificaciones
+
+- Scrum Fundamentals Certified — *ScrumStudy (2021)*  
+- CCNA Exploration: Network Fundamentals — *UIS (2010)*  
+- Java EE 5 — *UIS (2009)*  
+- Java Standard — *UIS (2009)*  
+
+---
+
+## 🌍 Idiomas
+
+- 🇪🇸 Español: Nativo  
+- 🇺🇸 Inglés: Intermedio  
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: **<marandrequin86@gmail.com>**  
+- 💼 LinkedIn / GitHub: **/sw-engineer-mario-jerez**  
+
+---
+
+⭐ *Siempre abierto a nuevos retos donde la tecnología, la arquitectura y el liderazgo se encuentren.*
